@@ -1,0 +1,29 @@
+{
+  "name": "random-str-msge",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cozazu/random-str-msge.git"
+  },
+  "keywords": [],
+  "author": "Julian Aranzazu <codezazu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cozazu/random-str-msge.git"
+  },
+  "homepage": "https://github.com/cozazu/random-str-msge.git",
+  "bin": {
+    "random-str-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
+
+
